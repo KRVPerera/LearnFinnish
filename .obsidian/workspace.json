@@ -38,9 +38,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Creating Questions.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "230351c2f92a3963",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "Templates/Table Note.md"
               }
             }
           },
@@ -57,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,15 +208,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bcc9c9103fb662c",
+  "active": "230351c2f92a3963",
   "lastOpenFiles": [
+    "Templates/Table Note.md",
     "Creating Questions.md",
+    "Untitled.md",
     "README.md",
     "Obsidian.md",
     "Contents.md",
     "Aakkoset 🔤.md",
     "2023-10-21.md",
-    "Templates/Table Note.md",
     "Templates"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 Date Created: Oct 21, 2023 - 11:07 PM
-"Type:": Table Note
+Type: Table Note
 tags:
   - finnish
 Catagory:

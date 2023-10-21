@@ -1,6 +1,6 @@
 ---
 Date Created: "{{Date}} - {{Time}}"
-"Type:": Table Note
+Type: Table Note
 tags:
   - finnish
 Catagory:
