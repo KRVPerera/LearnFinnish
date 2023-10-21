@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Table Note.md",
+                "file": "Creating Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Table Note.md",
+                "file": "Creating Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Table Note.md",
+                "file": "Creating Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Table Note.md"
+                "file": "Creating Questions.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "0bcc9c9103fb662c",
   "lastOpenFiles": [
-    "Creating Questions.md",
     "Templates/Table Note.md",
+    "Creating Questions.md",
     "Untitled.md",
     "README.md",
     "Obsidian.md",

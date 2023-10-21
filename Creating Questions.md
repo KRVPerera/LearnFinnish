@@ -5,7 +5,7 @@ tags:
   - finnish
 Catagory:
 ---
-| Finnish                 | English                      |
-| ----------------------- | ---------------------------- |
-| Mitä kielia sinä puhut? | What languages do you speak? |
-|                         |                              |
+| Finnish                  | English                      |
+| ------------------------ | ---------------------------- |
+| Mitä kielia sinä puhut?  | What languages do you speak? |
+| Opiskeletko sinä kemiaa? | Do you study chemistry?      | 
