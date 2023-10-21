@@ -1,3 +1,3 @@
 [[Contents]]
-
 [[Obsidian]]
+[Contents](.\Contents)
