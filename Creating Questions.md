@@ -8,4 +8,5 @@ Catagory:
 | Finnish                  | English                      |
 | ------------------------ | ---------------------------- |
 | Mitä kielia sinä puhut?  | What languages do you speak? |
-| Opiskeletko sinä kemiaa? | Do you study chemistry?      | 
+| Opiskeletko sinä kemiaa? | Do you study chemistry?      |
+| Voinko auttaa?           | Can I help you?              | 
