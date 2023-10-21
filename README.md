@@ -1,3 +1,4 @@
 [[Contents]]
 [[Obsidian]]
-[Contents](.\Contents)
+[Contents](Contents.md)
+
