@@ -38,7 +38,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creating Questions.md",
+                "file": "2023-10-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dac592bd051474fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32407ea25a01d8d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minä ja hän.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c78d3b65efa34503",
@@ -123,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creating Questions.md",
+                "file": "Minä ja hän.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creating Questions.md",
+                "file": "Minä ja hän.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creating Questions.md"
+                "file": "Minä ja hän.md"
               }
             }
           },
@@ -188,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,16 +227,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bcc9c9103fb662c",
+  "active": "32407ea25a01d8d4",
   "lastOpenFiles": [
-    "Templates/Table Note.md",
+    "Songs.md",
+    "Minä ja hän.md",
+    "2023-10-27.md",
+    "2023-10-21.md",
     "Creating Questions.md",
+    "Templates/Table Note.md",
     "Untitled.md",
     "README.md",
     "Obsidian.md",
     "Contents.md",
     "Aakkoset 🔤.md",
-    "2023-10-21.md",
     "Templates"
   ]
 }
