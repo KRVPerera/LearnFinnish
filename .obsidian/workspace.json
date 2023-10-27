@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2d113df55b00e0f",
+        "id": "f12fd315e48e0174",
         "type": "tabs",
         "children": [
           {
-            "id": "41e6fa4978d9dd8c",
+            "id": "072528915118b369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Songs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,67 +21,19 @@
             }
           },
           {
-            "id": "e764e33f358be909",
+            "id": "5592c944e6677a02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Missä muruseni on.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bcc9c9103fb662c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac592bd051474fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32407ea25a01d8d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minä ja hän.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07112d2623a3db75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-10-21.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minä ja hän.md",
+                "file": "Songs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minä ja hän.md",
+                "file": "Songs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minä ja hän.md"
+                "file": "Songs.md"
               }
             }
           },
@@ -208,13 +160,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,16 +177,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32407ea25a01d8d4",
+  "active": "072528915118b369",
   "lastOpenFiles": [
+    "Missä muruseni on.md",
     "Songs.md",
-    "Minä ja hän.md",
-    "2023-10-27.md",
     "2023-10-21.md",
+    "Kevät.md",
+    "README.md",
+    "2023-10-27.md",
+    "Minä ja hän.md",
+    "Kaksi puuta.md",
     "Creating Questions.md",
     "Templates/Table Note.md",
     "Untitled.md",
-    "README.md",
     "Obsidian.md",
     "Contents.md",
     "Aakkoset 🔤.md",
